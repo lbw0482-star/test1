@@ -20,7 +20,11 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # local env files
+.env
+.env.*
 .env*.local
+example.env
+!.env.example
 
 out/
 build/
@@ -28,6 +32,6 @@ dist/
 
 # plasmo
 .plasmo
-
+.TECHNICAL_DOC.md
 # typescript
 .tsbuildinfo
