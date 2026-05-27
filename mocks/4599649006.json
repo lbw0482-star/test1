@@ -1,0 +1,107 @@
+[
+  {
+    "name": "How did you hear about us?",
+    "value": ["Not Listed"]
+  },
+  {
+    "name": "Are you a current employee of the U.S. Government (including U.S. Congress or military) or any state or local government? This includes entities owned or controlled by the U.S. Federal Government, such as Amtrak, the United States Postal Service, and USAID (see list of exceptions below). NOTE: answer yes if you have accepted the “Fork-in-the-Road” offer, separated with a Deferred Retirement Plan, or are on administrative leave pending separation from the Government.",
+    "value": ["No"]
+  },
+  {
+    "name": "Will you be serving as enlisted personnel in either the Reserves or the National Guard while working for AFS?",
+    "value": ["No"]
+  },
+  {
+    "name": "Location (City)",
+    "value": "Auburn"
+  },
+  {
+    "name": "Were you an employee of the U.S. Government (including U.S. Congress or military) or any state or local government within the past 10 years? This includes entities owned or controlled by the U.S. Federal Government, such as Amtrak, the United States Postal Service, and USAID (see list of exceptions below).",
+    "value": ["No"]
+  },
+  {
+    "name": "Have you entered into a non-disclosure or non-compete agreement or understanding of any kind?",
+    "value": ["No"]
+  },
+  {
+    "name": "Affirmation",
+    "value": ["I agree"]
+  },
+  {
+    "name": "Do you hold a security clearance?",
+    "value": ["None"]
+  },
+  {
+    "name": "Are you Hispanic/Latino?",
+    "value": ["No"]
+  },
+  {
+    "name": "First Name",
+    "value": "P0First1774539203219"
+  },
+  {
+    "name": "Last Name",
+    "value": "P0Last1774539203219"
+  },
+  {
+    "name": "Email",
+    "value": "p0.1774539203219@example.test"
+  },
+  {
+    "name": "Phone",
+    "value": "6505550199"
+  },
+  {
+    "name": "State",
+    "value": ["California"]
+  },
+  {
+    "name": "Are you at least 18 years of age?",
+    "value": ["Yes"]
+  },
+  {
+    "name": "Are you legally authorized to work in the United States?",
+    "value": ["No"]
+  },
+  {
+    "name": "Will you now or in the future require sponsorship for employment visa status (for example, H-1B visa status)?",
+    "value": ["Yes"]
+  },
+  {
+    "name": "Gender",
+    "value": ["Female"]
+  },
+  {
+    "name": "Veteran Status",
+    "value": ["I am not a protected veteran"]
+  },
+  {
+    "name": "Disability Status",
+    "value": ["No, I do not have a disability and have not had one in the past"]
+  },
+  {
+    "name": "Please identify your race",
+    "value": ["Asian"]
+  },
+  {
+    "Education": [
+      {
+        "Degree": "Master's Degree",
+        "Discipline": ["Electronics & Communications Engr"],
+        "School": "San Jose State University",
+        "Start": "2014-01-01",
+        "End": "2015-01-01",
+        "isCurrent": false
+      },
+      {
+        "Degree": "Bachelor's Degree",
+        "Discipline": ["Chemistry"],
+        "School": "California State University - Los Angeles",
+        "Start": "2024-02-16",
+        "End": "2025-02-16",
+        "isCurrent": false,
+        "gpa": "4.5/5.0"
+      }
+    ]
+  }
+]

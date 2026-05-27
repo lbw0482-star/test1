@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Are you willing to undergo a background check, in accordance with local law/regulations?",
+    "value": ["Yes"]
+  },
+  {
+    "name": "Are you comfortable working in an onsite setting?",
+    "value": ["Yes"]
+  },
+  {
+    "name": "First Name",
+    "value": "P0First1774539203219"
+  },
+  {
+    "name": "Last Name",
+    "value": "P0Last1774539203219"
+  },
+  {
+    "name": "Preferred First Name",
+    "value": "P0First1774539203219"
+  },
+  {
+    "name": "Email",
+    "value": "p0.1774539203219@example.test"
+  },
+  {
+    "name": "Phone",
+    "value": "6505550199"
+  },
+  {
+    "name": "LinkedIn Profile",
+    "value": "https://linkedin.com/in/p0-1774539203219"
+  },
+  {
+    "name": "Are you legally authorized to work in the United States?",
+    "value": ["No"]
+  },
+  {
+    "name": "Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?",
+    "value": ["Yes"]
+  },
+  {
+    "Education": [
+      {
+        "Degree": "Master's Degree",
+        "Discipline": ["Communications & Film"],
+        "School": "San Jose State University",
+        "Start": "2014-01-01",
+        "End": "2015-01-01",
+        "isCurrent": false
+      },
+      {
+        "Degree": "Bachelor's Degree",
+        "Discipline": ["Chemistry"],
+        "School": "California State University - Los Angeles",
+        "Start": "2024-02-16",
+        "End": "2025-02-16",
+        "isCurrent": false,
+        "gpa": "4.5/5.0"
+      }
+    ]
+  }
+]
